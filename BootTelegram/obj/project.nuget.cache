@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vDpQT50n0cbGVl2PD5aVVehWuOZ+2/Kl1k0ZfwFh5Rz9YFp2ymqRRoxefjdQ1zDG5rsgzq1UxhkJ7DUd5pQSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lugom\\source\\repos\\BootTelegram\\BootTelegram\\BootTelegram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lugom\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lugom\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
